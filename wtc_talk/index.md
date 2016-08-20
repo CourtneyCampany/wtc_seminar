@@ -178,3 +178,102 @@ mode        : selfcontained # {standalone, draft}
 > - 'Lights On' for shade leaves
 >  - Max sunfleck response
 
+---&twocol bg:white
+##  Are tree canopies optimized for carbon gain?
+<hr>
+<br />
+***=left
+![canopypic](assets/img/euc_canopy2.jpg)
+
+> - <strong>Do light gradients define leaf properties</strong>
+>   - Resources and photosynthetic capacity (<strong>A<sub>max</sub></strong>) should be <strong>↑</strong> in sun leaves
+
+***=right
+
+> - <strong>Is the canopy optimized to <strong>↑</strong> C gain while <strong>↓</strong> water loss?</strong>
+>   - Then g<sub>s</sub> will be  proportional to photosynthesis across all leaves
+ 
+> - <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
+>   - If A<sub>max</sub> is  in sun leaves then <strong>↑</strong>g<sub>m</sub> should be too
+
+--- .class #id bg:white
+## 75% reduction in direct light to shade leaves
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ppfd.png">
+
+
+--- &carousel bg:white 
+## Photosynthetic capacity reduced in shade leaves
+
+*** {class: active, img: "assets/img/white.png"}
+
+*** {img: "assets/img/aci.png"}
+Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
+
+*** {img: "assets/img/photonitro.png"}
+~25% higher Leaf Nitrogen in sun
+
+--- .class #id bg:white
+## Shade leaves exhibited apparent inefficient water use relative to photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP: 175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ags2.png">
+
+--- .class #id bg:white
+## <strong>↓</strong> WUE from sub-optimal behavior of g<sub>s</sub>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue.png">
+
+--- &carousel_nocap bg:white 
+## Does the answer lie within sunflecks?
+<hr>
+
+*** {class: active, img: "assets/img/ags1.png"}
+Shade leaves = sun leaves
+
+*** {img: "assets/img/agsbar.png"}
+Do shade leaves 'lie in wait'?
+
+---&twocol bg:white
+## The need to investigate within the canopy
+<hr>
+
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+
+***=left
+
+<br />
+> - <strong>Can we reject the hypothesis that leaves are optimized throughout the canopy?</strong> 
+>  - <p>Sun leaves utlize higher N while minimizing water loss <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
+>  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
+>  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p> 
+
+---&twocol_left bg:white
+## Measuring shade leaves: Whats to gain?
+<hr>
+
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+
+***=right
+
+<br />
+> - <strong>Why are shade leaves wasting water?</strong>
+
+>  - Leaves prepared to 'slow' response of g<sub>s</sub>?
+>  - Economy of physiology
+>  - <strong>↑</strong> water loss to potentially turn shade leaves into sun leaves?
+>  - g<sub>m</sub> is the key
+
+> - <strong>Implications for scaling leaf level measurments to the canopy</strong>
+
+---.class #id bg:white
+
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
+
+<DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
+http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
+
+<DIV style="position: absolute; top:650px; left:45px; width:600px; height:25px; color:white">
+click through for additional figures</DIV>
