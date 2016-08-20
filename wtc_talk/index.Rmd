@@ -1,5 +1,5 @@
 ---
-title       : Ecophysiology of Eucalyputus, across multiple scales, using Whole Tree Chambers
+title       : Ecophysiology of Eucalyputus trees, across multiple scales, using Whole Tree Chambers
 subtitle    : 
 author      : Court Campany
 job         : Research Fellow, Hawkesbury Institute for the Environment
