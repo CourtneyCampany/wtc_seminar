@@ -8,3 +8,6 @@ install_github('shiny', 'rstudio', force=TRUE)
 install.packages('stringr')
 devtools::install_github('muschellij2/slidify')
 library(slidify)
+
+
+#author("wtc talk")

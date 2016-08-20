@@ -6,60 +6,100 @@ job         : Research Fellow, Hawkesbury Institute for the Environment
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [bootstrap, quiz,shiny, interactive, leaflet]# {mathjax, quiz, bootstrap}
+widgets     : [bootstrap, quiz,shiny, interactive]# {mathjax, quiz, bootstrap}
+ext_widgets: {rCharts: [libraries/nvd3]}
 mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+logo        : hielogo.png
 ---
 
-## About me
-
-> - www.courtneycampany.com
->  - twitter @court_campany
-
---- .class #id bg:white
-
-## insert leaflet
-
---- .class #id bg:white
-
-
 ## Reproducibility
+<hr>
+<br />
+<br />
+* All code for this talk can be found @ https://github.com/CourtneyCampany/
 
-> - Im a strong advocate of reproducibility in science, so....
->  - All code for this talk can be found @ https://github.com/CourtneyCampany/
->  - data & analysis for WTC1: github.com/CourtneyCampany/WTC1
->  - data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
->  - code for this talk: github.com/CourtneyCampany/WTC_talk
+<br />
+
+* data & analysis for WTC1: github.com/CourtneyCampany/WTC1
+* data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
+* code for this talk: github.com/CourtneyCampany/wtc_seminar
+
+--- &twocol bg:white
+
+## About me: Plant Ecophysiologist
+<hr>
+
+<br />
+<br />
+* Plant Ecophysologist
+* Ecosystem Ecologist
+
+<br />
+* www.courtneycampany.com
+* twitter @court_campany
+
+***=left
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:400px; WIDTH:500px; HEIGHT:500px" SRC="assets/img/thesiscloud2.png">
+
+***=right
+
+--- .class #id bg:white
+## Science Background
+<hr>
+*leaflet goes here
 
 
 --- .class #id bg:white
 
+## My scientific interests revolve around tree carbon uptake and carbon allocation
+<hr>
+<br />
+
+* How are trees optimized for C gain?
+  + physiology, resource distribution and anatomy
+* Where does this C go?
+  + understading the fate of photosynthetic C through trees
+  
+<br />
+
+* Answering these question requires research that spans both leaf and whole tree scales
+
+--- .class #id bg:white
+
+## Today Ill show data from two Whole Tree Chamber experiments (WTCI and WTCIII)
+<hr>
+<br />
+* Novel experiment with 12 chambers, 1 tree per each
+  +imported to HIE from Sweden
+  +retrofitted to work in Australian climate
+<br />
+* Ust to address some knowledge gaps in canopy C gain and tree C allocation
+  +across mulptiple scales
+
+--- .class #id bg:white
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
-## climate change manipulations
-## what they are:
-## what they are not:
+<hr>
+
+* What they are:
+  + tools for plant physiological research
+  + excellent manipulative control of climate and atmospheric change factors
+<br />
+* what they are not:
+  + a proxy for ecosystem science
+  + a great representation of 'natural' belowground ecology
 
 --- .class #id bg:white
 
-## My interests revolve around understanding plant C gain and allocation
-## 1. how trees are optimized for C gain
-## 2. where does the C go
-## Answering these question requires research that spans both leaf and whole tree scales
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="assets/img/thesiscloud.png">
-
-
---- .class #id bg:white
-
-## Today Ill show data from two experiments (WTCI and WTCIII)
-## Attempt to address some knowledge gaps in canopy C gain and tree C allocation
-## across mulptiple scales
-
-
---- .class #id bg:white
-
-## These experiments are conducted with Eucalpytus species
-## Why are eucalpyts important?
-## Why do they make really nice model trees in investigate physiology
+## Research with *Eucalpytus* species
+* Why are eucalpyts important?
+  +plantations
+  +forestry
+  +urban
+<br />
+* Why do they make really nice model trees in investigate physiology
+  +evergreen trees are awesome for research
 
 --- .class #id bg:white
 
@@ -67,13 +107,11 @@ mode        : selfcontained # {standalone, draft}
 
 --- .class #id bg:white
 
-#Coupled response of stomatal and mesophyll conductance to light enhances photosynthesis of shade leaves under sunflecks
+##Coupled response of stomatal and mesophyll conductance to light enhances photosynthesis of shade leaves under sunflecks
+<hr>
 
-###Courtney E. Campany^1^, Mark G. Tjoelker^1^, Susanne von Caemmerer^2^, Remko A. Duursma^1^.
+*Courtney E. Campany^1^, Mark G. Tjoelker^1^, Susanne von Caemmerer^2^, Remko A. Duursma^1^.
 
-## ^1^ Hawkesbury Institute for the Environment, Western Sydney University, Locked Bag 1797, Penrith 2751 NSW, Australia
-
-## ^2^ ARC Centre of Excellence for Translational Photosynthesis, Plant Science Division, Research School of Biology, The Australian National University, Canberra 2601 ACT, Australia
 
 --- .class #id bg:white
 

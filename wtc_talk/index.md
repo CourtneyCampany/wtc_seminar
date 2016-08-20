@@ -1,60 +1,105 @@
 ---
-title       : Ecophysiology of Eucalyputus, across multiple scales, using Whole Tree Chambers
+title       : Ecophysiology of Eucalyputus trees, across multiple scales, using Whole Tree Chambers
 subtitle    : 
 author      : Court Campany
 job         : Research Fellow, Hawkesbury Institute for the Environment
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [bootstrap, quiz,shiny, interactive, leaflet]# {mathjax, quiz, bootstrap}
+widgets     : [bootstrap, quiz,shiny, interactive]# {mathjax, quiz, bootstrap}
+ext_widgets: {rCharts: [libraries/nvd3]}
 mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+logo        : hielogo.png
 ---
 
-## About me
-
-> - www.courtneycampany.com
->  - twitter @court_campany
-
---- .class #id bg:white
-
-## insert leaflet
-
---- .class #id bg:white
-
-
 ## Reproducibility
+<hr>
+<br />
+<br />
+* All code for this talk can be found @ https://github.com/CourtneyCampany/
 
-> - Im a strong advocate of reproducibility in science, so....
->  - All code for this talk can be found @ https://github.com/CourtneyCampany/
->  - data & analysis for WTC1: github.com/CourtneyCampany/WTC1
->  - data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
->  - code for this talk: github.com/CourtneyCampany/WTC_talk
+<br />
+
+* data & analysis for WTC1: github.com/CourtneyCampany/WTC1
+* data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
+* code for this talk: github.com/CourtneyCampany/wtc_seminar
+
+--- &twocol bg:white
+
+## About me: Plant Ecophysiologist
+<hr>
+
+<br />
+<br />
+* Plant Ecophysologist
+* Ecosystem Ecologist
+
+<br />
+* www.courtneycampany.com
+* twitter @court_campany
+
+***=left
+
+<IMG STYLE="position:absolute; TOP:125px; LEFT:400px; WIDTH:500px; HEIGHT:500px" SRC="assets/img/thesiscloud2.png">
+
+***=right
+
+--- .class #id bg:white
+## Science Background
+<hr>
+*leaflet goes here
 
 
 --- .class #id bg:white
 
+## My scientific interests revolve around tree carbon uptake and carbon allocation
+<hr>
+<br />
+
+* How are trees optimized for C gain?
+  + physiology, resource distribution and anatomy
+* Where does this C go?
+  + understading the fate of photosynthetic C through trees
+  
+<br />
+
+* Answering these question requires research that spans both leaf and whole tree scales
+
+--- .class #id bg:white
+
+## Today Ill show data from two Whole Tree Chamber experiments (WTCI and WTCIII)
+<hr>
+<br />
+* Novel experiment with 12 chambers, 1 tree per each
+  +imported to HIE from Sweden
+  +retrofitted to work in Australian climate
+<br />
+* Ust to address some knowledge gaps in canopy C gain and tree C allocation
+  +across mulptiple scales
+
+--- .class #id bg:white
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
-## climate change manipulations
-## what they are:
-## what they are not:
+<hr>
+
+* What they are:
+  + tools for plant physiological research
+  + excellent manipulative control of climate and atmospheric change factors
+<br />
+* what they are not:
+  + a proxy for ecosystem science
+  + a great representation of 'natural' belowground ecology
 
 --- .class #id bg:white
 
-## My interests revolve around understanding plant C gain and allocation
-## Necessary to investigate leaf and whole plant scales
-
-
---- .class #id bg:white
-
-## Today Ill show data from two experiments (WTCI and WTCIII)
-## Attempt to address some knowledge gaps in canopy C gain and tree C allocation
-
-
---- .class #id bg:white
-
-## These experiments are conducted with Eucalpytus species
-## Why are eucalpyts important?
-## Why do they make really nice model trees in investigate physiology
+## Research with *Eucalpytus* species
+* Why are eucalpyts important?
+  +plantations
+  +forestry
+  +urban
+<br />
+* Why do they make really nice model trees in investigate physiology
+  +evergreen trees are awesome for research
 
 --- .class #id bg:white
 
@@ -62,13 +107,11 @@ mode        : selfcontained # {standalone, draft}
 
 --- .class #id bg:white
 
-#Coupled response of stomatal and mesophyll conductance to light enhances photosynthesis of shade leaves under sunflecks
+##Coupled response of stomatal and mesophyll conductance to light enhances photosynthesis of shade leaves under sunflecks
+<hr>
 
-###Courtney E. Campany^1^, Mark G. Tjoelker^1^, Susanne von Caemmerer^2^, Remko A. Duursma^1^.
+*Courtney E. Campany^1^, Mark G. Tjoelker^1^, Susanne von Caemmerer^2^, Remko A. Duursma^1^.
 
-## ^1^ Hawkesbury Institute for the Environment, Western Sydney University, Locked Bag 1797, Penrith 2751 NSW, Australia
-
-## ^2^ ARC Centre of Excellence for Translational Photosynthesis, Plant Science Division, Research School of Biology, The Australian National University, Canberra 2601 ACT, Australia
 
 --- .class #id bg:white
 
@@ -236,6 +279,15 @@ Shade leaves = sun leaves
 *** {img: "assets/img/agsbar.png"}
 Do shade leaves 'lie in wait'?
 
+---.class #id bg:white
+##Functional properties of **Eucalpytus** leaves and canopies
+
+> - checklist here of findings on leaf angle (king...for leaf temp control in hot dry regions, but occur in wetter regions )
+> - stomata on both sides ()
+> - sunfleck research focuses heavily on understory, but what about within the canopy
+> - Eucakpys tend to have a much sparser canopy than say a a oak tree, also everygreen so C gain year round
+> - enhancing light interception is so important in canopy C gain, and for us as we scale up
+
 ---&twocol bg:white
 ## The need to investigate within the canopy
 <hr>
@@ -277,3 +329,70 @@ http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
 
 <DIV style="position: absolute; top:650px; left:45px; width:600px; height:25px; color:white">
 click through for additional figures</DIV>
+
+
+--- .class #id bg:white
+
+## Now I would like to move up in scale and talk about canopy fluxes and whole tree C allocation
+## Using the unique ability of the WTC to measure high resoultion C and H20 fluxes
+## extremly relevant for predicting climate change effects on forest ecosystems
+## as we want to determine how net canopy C gain is allocated and does this change
+
+--- .class #id bg:white
+
+##background
+## duke facem ornl face
+
+--- .class #id bg:white
+
+##drawbacks to these study are real
+###integrated soil respirtion measuremnets
+## but if the power of WTC design allows us to resolve these much more simply
+
+--- .class #id bg:white
+
+##chamber setup for fluxes
+##seperate of soil respirtory flux (important)
+
+--- .class #id bg:white
+
+##allometry of aboveground, done extremely well
+
+--- .class #id bg:white
+
+##this then allows us to determine TBCA in absolute C terms
+## mass balance
+
+--- .class #id bg:white
+
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/concept4.jpg">
+
+--- .class #id bg:white
+
+##mass partitioning vs C allocation
+## what u see and what u see + what goes in to making what u see
+
+--- .class #id bg:white
+
+##Whole Tree Chamber I design
+## CO2 x Drought
+
+
+--- .class #id bg:white
+
+##Once trees are large enough, chamber floors go in and then chamber fluxes can start
+##here we generate fluxes over the last 11 months of the experiment
+
+--- .class #id bg:white
+
+##aboveground biomass through time
+
+--- .class #id bg:white
+
+##leaf are through time
+
+--- .class #id bg:white
+
+##strong relationship between leaf area and C flux
+
+
