@@ -1,6 +1,6 @@
 ---
-title       : Ecophysiology of Eucalyputus trees, across multiple scales, using Whole Tree Chambers
-subtitle    : 
+title       : Understanding resource allocation in Eucalyputus trees,
+              using Whole Tree Chambers
 author      : Court Campany
 job         : Research Fellow, Hawkesbury Institute for the Environment
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -11,27 +11,14 @@ ext_widgets: {rCharts: [libraries/nvd3]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 logo        : hielogo.png
----
-
-## Reproducibility
-<hr>
-<br />
-<br />
-* All code for this talk can be found @ https://github.com/CourtneyCampany/
-
-<br />
-
-* data & analysis for WTC1: github.com/CourtneyCampany/WTC1
-* data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
-* code for this talk: github.com/CourtneyCampany/wtc_seminar
-
---- &twocol bg:white
+--- .class #id bg:white
 
 ## About me: Plant Ecophysiologist
 <hr>
 
 <br />
 <br />
+
 * Plant Ecophysologist
 * Ecosystem Ecologist
 
@@ -39,71 +26,85 @@ logo        : hielogo.png
 * www.courtneycampany.com
 * twitter @court_campany
 
-***=left
-
-<IMG STYLE="position:absolute; TOP:125px; LEFT:400px; WIDTH:500px; HEIGHT:500px" SRC="assets/img/thesiscloud2.png">
-
-***=right
+<IMG STYLE="position:absolute; TOP:150px; LEFT:450px; WIDTH:475px; HEIGHT:475px" SRC="assets/img/thesiscloud2.png">
 
 --- .class #id bg:white
 ## Science Background
 <hr>
 *leaflet goes here
 
-
 --- .class #id bg:white
 
-## My scientific interests revolve around tree carbon uptake and carbon allocation
+## Research: Tree carbon uptake and carbon allocation
 <hr>
 <br />
 
 * How are trees optimized for C gain?
   + physiology, resource distribution and anatomy
-* Where does this C go?
-  + understading the fate of photosynthetic C through trees
+  + will future global change affect these processes?
   
 <br />
+* Where does this C go?
+  + fate of photosynthetic C through trees
+  + source vs sink activity
+  + providing empirical data to models
+  
+<IMG STYLE="position:absolute; TOP:215px; LEFT:650px; WIDTH:325px; HEIGHT:375px" SRC="assets/img/treeandroots.jpg">
 
-* Answering these question requires research that spans both leaf and whole tree scales
-
---- .class #id bg:white
-
-## Today Ill show data from two Whole Tree Chamber experiments (WTCI and WTCIII)
+--- &twocol bg:white
+## Resource allocation is important at multiple scales
 <hr>
 <br />
-* Novel experiment with 12 chambers, 1 tree per each
-  +imported to HIE from Sweden
-  +retrofitted to work in Australian climate
-<br />
-* Ust to address some knowledge gaps in canopy C gain and tree C allocation
-  +across mulptiple scales
+
+***=left
+  + Resource allocation (H<sub>2</sub>0, N, P) regulates leaf photosynthesis
+  + Canopy light gradients control resource distribution which alters leaf physiological behavior
+  + Sum uptake of all leaves determines net canopy C uptake
+  + Canopy C must then be allocated, as a resource, to growth, storage, reproduction and loss
+
+***=right
+<IMG STYLE="position:absolute; TOP:210px; LEFT:700px;" SRC="assets/img/canopy.jpg">
 
 --- .class #id bg:white
+
+## Whole Tree Chambers, Hawkesbury Forest Experiment
+<hr>
+<br />
+* Novel experimental infrastructure with 12 chambers, 1 tree per each
+  +imported to HIE from Sweden
+  +retrofitted to work in Australian climate
+  
+<br />
+* Use to address some knowledge gaps in canopy C gain and tree C allocation
+  +across multiple scales
+  
+--- .class #id bg:white 
+
+## Whole Tree Chambers, Hawkesbury Forest Experiment
+<hr>
+
+* Manipulate climate change factors
+  + CO<sub>2</sub>, Precipation and Warming
+  + interactions between these factors
+<br />
+* excellent environmental control:
+  + tight control of temperature and RH allow VPD to be controlled in warming experiments
+  + real time control of CO<sub>2</sub> levels allows for ^13C studies to be completed  
+
+--- .class #id bg:white 
+
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
 
 * What they are:
   + tools for plant physiological research
   + excellent manipulative control of climate and atmospheric change factors
-<br />
-* what they are not:
-  + a proxy for ecosystem science
-  + a great representation of 'natural' belowground ecology
+  + a important next step for physiology based experiments which focus on seedlings
+  + access to entire canopy
+  <br />
+* What they are not:
+  + a proxy for ecosystem level processes
 
---- .class #id bg:white
-
-## Research with *Eucalpytus* species
-* Why are eucalpyts important?
-  +plantations
-  +forestry
-  +urban
-<br />
-* Why do they make really nice model trees in investigate physiology
-  +evergreen trees are awesome for research
-
---- .class #id bg:white
-
-## So today we will start small and work are way up...
 
 --- .class #id bg:white
 
@@ -285,7 +286,7 @@ Do shade leaves 'lie in wait'?
 > - checklist here of findings on leaf angle (king...for leaf temp control in hot dry regions, but occur in wetter regions )
 > - stomata on both sides ()
 > - sunfleck research focuses heavily on understory, but what about within the canopy
-> - Eucakpys tend to have a much sparser canopy than say a a oak tree, also everygreen so C gain year round
+> - Eucalpts tend to have a much sparser canopy than say a a oak tree, also everygreen so C gain year round
 > - enhancing light interception is so important in canopy C gain, and for us as we scale up
 
 ---&twocol bg:white
@@ -351,8 +352,19 @@ click through for additional figures</DIV>
 
 --- .class #id bg:white
 
-##chamber setup for fluxes
+##WTC chamber setup for fluxes
 ##seperate of soil respirtory flux (important)
+
+--- .class #id bg:white
+
+##WTC 1 design
+### *Eucalpytus saligna* or Sydney Blue gum
+
+> - *Eucalpytus saligna* or Sydney Blue gum
+
+>  - common plantation species due to valuable hardwood
+>  - important ecologically as a component of endangered Blue Gun High forest on east coast of OZ
+>  - previously utilized in numerous manupulative climate change experiments
 
 --- .class #id bg:white
 
@@ -387,12 +399,33 @@ click through for additional figures</DIV>
 
 ##aboveground biomass through time
 
+
+
 --- .class #id bg:white
 
 ##leaf are through time
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/leafarea.png">
 
 --- .class #id bg:white
 
 ##strong relationship between leaf area and C flux
+
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/cflux_leafarea2.png">
+
+--- .class #id bg:white
+
+## Reproducibility
+<hr>
+<br />
+<br />
+* All code for this talk can be found @ https://github.com/CourtneyCampany/
+
+<br />
+
+* data & analysis for WTC1: github.com/CourtneyCampany/WTC1
+* data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
+* code for this talk: github.com/CourtneyCampany/wtc_seminar
+
+--- &twocol bg:white
 
 
