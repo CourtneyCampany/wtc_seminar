@@ -13,7 +13,7 @@ knit        : slidify::knit2slides
 logo        : hielogo.png
 --- .class #id bg:white
 
-## About me: Plant Ecophysiologist
+## About me:
 <hr>
 
 <br />
@@ -92,7 +92,6 @@ logo        : hielogo.png
   + real time control of CO<sub>2</sub> levels allows for ^13C studies to be completed  
 
 --- .class #id bg:white 
-
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
 
@@ -105,14 +104,29 @@ logo        : hielogo.png
 * What they are not:
   + a proxy for ecosystem level processes
 
+--- --- &twocol bg:white
 
---- .class #id bg:white
+***=left
+<IMG STYLE="position:absolute; TOP:50px; LEFT:75px; WIDTH:480px; HEIGHT:600px" SRC="assets/img/wetchamber.JPG">
 
-##Coupled response of stomatal and mesophyll conductance to light enhances photosynthesis of shade leaves under sunflecks
-<hr>
+***=right
 
-*Courtney E. Campany^1^, Mark G. Tjoelker^1^, Susanne von Caemmerer^2^, Remko A. Duursma^1^.
-
+<br />
+<br />
+### Coupled response of stomatal and mesophyll conductance to light enhances photosynthesis of shade leaves under sunflecks
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Courtney E. Campany
+<br />
+Mark G. Tjoelker 
+<br />
+Susanne von Caemmerer 
+<br />
+Remko A. Duursma
 
 --- .class #id bg:white
 
@@ -125,12 +139,33 @@ logo        : hielogo.png
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:75px; WIDTH:300px; HEIGHT:300px" SRC="assets/img/stomata_optimal.png">
 
-<DIV style="position: absolute; top:650px; left:45px; width:200px; height:25px; color:#5e5c5c">http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
-
 --- .class #id bg:white
 ## However...
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="assets/img/leafopt2.png">
+
+---.class #id bg:white
+## Are whole canopies optimized for C gain?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:600px; HEIGHT:250px" SRC="assets/img/peltpaper.png">
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
++Light gradient determines leaf properties
+<br />
+
++N and H<sub>2</sub>O both distributed to sun leaves
+<br />
+
++Maximizes photosynthesis (theoritically)
 
 --- .class #id bg:white
 ## For the canopy...Don't <span style="color:green">LEAF</span> things to chance
@@ -315,48 +350,37 @@ Do shade leaves 'lie in wait'?
 > - <strong>Why are shade leaves wasting water?</strong>
 
 >  - Leaves prepared to 'slow' response of g<sub>s</sub>?
->  - Economy of physiology
+>  - Leaf economics
 >  - <strong>↑</strong> water loss to potentially turn shade leaves into sun leaves?
 >  - g<sub>m</sub> is the key
 
 > - <strong>Implications for scaling leaf level measurments to the canopy</strong>
 
----.class #id bg:white
-
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
-
-<DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
-http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
-
-<DIV style="position: absolute; top:650px; left:45px; width:600px; height:25px; color:white">
-click through for additional figures</DIV>
-
-
 --- .class #id bg:white
-
+<hr>
 ## Now I would like to move up in scale and talk about canopy fluxes and whole tree C allocation
 ## Using the unique ability of the WTC to measure high resoultion C and H20 fluxes
 ## extremly relevant for predicting climate change effects on forest ecosystems
 ## as we want to determine how net canopy C gain is allocated and does this change
 
 --- .class #id bg:white
-
+<hr>
 ##background
 ## duke facem ornl face
 
 --- .class #id bg:white
-
+<hr>
 ##drawbacks to these study are real
 ###integrated soil respirtion measuremnets
 ## but if the power of WTC design allows us to resolve these much more simply
 
 --- .class #id bg:white
-
+<hr>
 ##WTC chamber setup for fluxes
 ##seperate of soil respirtory flux (important)
 
 --- .class #id bg:white
-
+<hr>
 ##WTC 1 design
 ### *Eucalpytus saligna* or Sydney Blue gum
 
@@ -367,52 +391,95 @@ click through for additional figures</DIV>
 >  - previously utilized in numerous manupulative climate change experiments
 
 --- .class #id bg:white
-
+<hr>
 ##allometry of aboveground, done extremely well
 
 --- .class #id bg:white
-
+<hr>
 ##this then allows us to determine TBCA in absolute C terms
 ## mass balance
 
 --- .class #id bg:white
-
+<hr>
 <IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/concept4.jpg">
 
 --- .class #id bg:white
-
+<hr>
 ##mass partitioning vs C allocation
 ## what u see and what u see + what goes in to making what u see
 
 --- .class #id bg:white
-
+<hr>
 ##Whole Tree Chamber I design
 ## CO2 x Drought
 
 
 --- .class #id bg:white
-
+<hr>
 ##Once trees are large enough, chamber floors go in and then chamber fluxes can start
 ##here we generate fluxes over the last 11 months of the experiment
 
 --- .class #id bg:white
-
-##aboveground biomass through time
-
-
+<hr>
+##use allometry to track allocation through time (aboveground)
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/leafarea.png">
 
 --- .class #id bg:white
-
+<hr>
 ##leaf are through time
 <IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/leafarea.png">
 
 --- .class #id bg:white
-
+<hr>
 ##strong relationship between leaf area and C flux
 
 <IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/cflux_leafarea2.png">
 
+
 --- .class #id bg:white
+<hr>
+##use allometry to track allocation through time (aboveground)
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/treeallocation.png">
+
+--- .class #id bg:white
+<hr>
+##how was mass partitioing and C allocation impacted after ~1yr?
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/allocation.png">
+
+--- .class #id bg:white
+<hr>
+##Does climate change really alter TBCA?
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/tbca.png">
+
+
+--- .class #id bg:white
+<hr>
+##Conclusions: Understanding canopy C gain
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="assets/img/treecarbon.png">
+
+--- .class #id bg:white
+<hr>
+##Conclusions: Canopy C gain, getting it right
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="assets/img/treebracket.png">
+
+--- .class #id bg:white
+<hr>
+##Conclusions: Tree C allocation, fixed or not?
+
+--- .class #id bg:white
+##Conclusions: Tree C allocation, getting it right
+<hr>
+
+* Manipulate climate change factors
+  + CO<sub>2</sub>, Precipation and Warming
+  + interactions between these factors
+<br />
+* excellent environmental control:
+  + tight control of temperature and RH allow VPD to be controlled in warming experiments
+  + real time control of CO<sub>2</sub> levels allows for ^13C studies to be completed 
+
+--- .class #id bg:white
+
 
 ## Reproducibility
 <hr>
@@ -426,6 +493,10 @@ click through for additional figures</DIV>
 * data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
 * code for this talk: github.com/CourtneyCampany/wtc_seminar
 
---- &twocol bg:white
+---.class #id bg:white
 
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
+
+<DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
+http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
 
