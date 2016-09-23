@@ -77,12 +77,14 @@ logo        : hielogo.png
 <br />
 * Use to address some knowledge gaps in canopy C gain and tree C allocation
   +across multiple scales
+<br />
+*http://www.uws.edu.au/hie/facilities/whole_tree_chambers  
   
---- .class #id bg:white 
+--- .class #id bg:white
 
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
-
+<br />
 * Manipulate climate change factors
   + CO<sub>2</sub>, Precipation and Warming
   + interactions between these factors
@@ -92,17 +94,21 @@ logo        : hielogo.png
   + real time control of CO<sub>2</sub> levels allows for ^13C studies to be completed  
 
 --- .class #id bg:white 
+
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
-
+<br />
 * What they are:
   + tools for plant physiological research
-  + excellent manipulative control of climate and atmospheric change factors
-  + a important next step for physiology based experiments which focus on seedlings
+  + excellent manipulative control of climate change factors
+  + a step beyond seedling based physiology experiments
   + access to entire canopy
+  <br />
   <br />
 * What they are not:
   + a proxy for ecosystem level processes
+  
+<IMG STYLE="position:absolute; TOP:225px; LEFT:750px;" SRC="assets/img/wtc_design.jpg">
 
 --- --- &twocol bg:white
 
@@ -148,7 +154,7 @@ Remko A. Duursma
 ## Are whole canopies optimized for C gain?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:600px; HEIGHT:250px" SRC="assets/img/peltpaper.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:600px; HEIGHT:250px" SRC="assets/img/peltpaper.png">
 
 <br />
 <br />
@@ -159,13 +165,13 @@ Remko A. Duursma
 <br />
 <br />
 <br />
-+Light gradient determines leaf properties
+> - Light gradient determines leaf properties
 <br />
 
-+N and H<sub>2</sub>O both distributed to sun leaves
+> - N and H<sub>2</sub>O both distributed to sun leaves
 <br />
 
-+Maximizes photosynthesis (theoritically)
+> - Maximizes photosynthesis (theoritically)
 
 --- .class #id bg:white
 ## For the canopy...Don't <span style="color:green">LEAF</span> things to chance
@@ -281,20 +287,19 @@ Remko A. Duursma
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ppfd.png">
 
-
---- &carousel bg:white 
-## Photosynthetic capacity reduced in shade leaves
-
-*** {class: active, img: "assets/img/white.png"}
-
-*** {img: "assets/img/aci.png"}
-Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
-
-*** {img: "assets/img/photonitro.png"}
-~25% higher Leaf Nitrogen in sun
+--- &twocol bg:white
+## Photosynthetic capacity and resource distribution
+<hr>
+***=left
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="assets/img/amaxnitro.png">
+***=right
+<br />
+> - Amax reduced in shade
+> - ~25% higher Leaf Nitrogen in sun
+> - Kl higher in shade?
 
 --- .class #id bg:white
-## Shade leaves exhibited apparent inefficient water use relative to photosynthesis
+## Shade leaves exhibited apparent inefficient water use
 <hr>
 
 <IMG STYLE="position:absolute; TOP: 175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ags2.png">
@@ -305,198 +310,64 @@ Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue.png">
 
---- &carousel_nocap bg:white 
+--- .class #id bg:white
+## <strong>↓</strong> WUE from sub-optimal behavior of g<sub>s</sub>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue13C.png">
+
+--- .class #id bg:white
 ## Does the answer lie within sunflecks?
 <hr>
 
-*** {class: active, img: "assets/img/ags1.png"}
-Shade leaves = sun leaves
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ags1.png">
 
-*** {img: "assets/img/agsbar.png"}
-Do shade leaves 'lie in wait'?
 
----.class #id bg:white
-##Functional properties of **Eucalpytus** leaves and canopies
-
-> - checklist here of findings on leaf angle (king...for leaf temp control in hot dry regions, but occur in wetter regions )
-> - stomata on both sides ()
-> - sunfleck research focuses heavily on understory, but what about within the canopy
-> - Eucalpts tend to have a much sparser canopy than say a a oak tree, also everygreen so C gain year round
-> - enhancing light interception is so important in canopy C gain, and for us as we scale up
-
----&twocol bg:white
-## The need to investigate within the canopy
+--- &twocol bg:white
+## Dynamic physiology: total conductance to CO<sub>2</sub>
 <hr>
-
- <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
 
 ***=left
-
 <br />
-> - <strong>Can we reject the hypothesis that leaves are optimized throughout the canopy?</strong> 
->  - <p>Sun leaves utlize higher N while minimizing water loss <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
->  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
->  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p> 
-
----&twocol_left bg:white
-## Measuring shade leaves: Whats to gain?
-<hr>
-
- <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+![co2diffuse](assets/img/gm.jpg)
 
 ***=right
-
-<br />
-> - <strong>Why are shade leaves wasting water?</strong>
-
->  - Leaves prepared to 'slow' response of g<sub>s</sub>?
->  - Leaf economics
->  - <strong>↑</strong> water loss to potentially turn shade leaves into sun leaves?
->  - g<sub>m</sub> is the key
-
-> - <strong>Implications for scaling leaf level measurments to the canopy</strong>
-
---- .class #id bg:white
-<hr>
-## Now I would like to move up in scale and talk about canopy fluxes and whole tree C allocation
-## Using the unique ability of the WTC to measure high resoultion C and H20 fluxes
-## extremly relevant for predicting climate change effects on forest ecosystems
-## as we want to determine how net canopy C gain is allocated and does this change
-
---- .class #id bg:white
-<hr>
-##background
-## duke facem ornl face
-
---- .class #id bg:white
-<hr>
-##drawbacks to these study are real
-###integrated soil respirtion measuremnets
-## but if the power of WTC design allows us to resolve these much more simply
-
---- .class #id bg:white
-<hr>
-##WTC chamber setup for fluxes
-##seperate of soil respirtory flux (important)
-
---- .class #id bg:white
-<hr>
-##WTC 1 design
-### *Eucalpytus saligna* or Sydney Blue gum
-
-> - *Eucalpytus saligna* or Sydney Blue gum
-
->  - common plantation species due to valuable hardwood
->  - important ecologically as a component of endangered Blue Gun High forest on east coast of OZ
->  - previously utilized in numerous manupulative climate change experiments
-
---- .class #id bg:white
-<hr>
-##allometry of aboveground, done extremely well
-
---- .class #id bg:white
-<hr>
-##this then allows us to determine TBCA in absolute C terms
-## mass balance
-
---- .class #id bg:white
-<hr>
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/concept4.jpg">
-
---- .class #id bg:white
-<hr>
-##mass partitioning vs C allocation
-## what u see and what u see + what goes in to making what u see
-
---- .class #id bg:white
-<hr>
-##Whole Tree Chamber I design
-## CO2 x Drought
-
-
---- .class #id bg:white
-<hr>
-##Once trees are large enough, chamber floors go in and then chamber fluxes can start
-##here we generate fluxes over the last 11 months of the experiment
-
---- .class #id bg:white
-<hr>
-##use allometry to track allocation through time (aboveground)
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/leafarea.png">
-
---- .class #id bg:white
-<hr>
-##leaf are through time
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/leafarea.png">
-
---- .class #id bg:white
-<hr>
-##strong relationship between leaf area and C flux
-
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/cflux_leafarea2.png">
-
-
---- .class #id bg:white
-<hr>
-##use allometry to track allocation through time (aboveground)
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/treeallocation.png">
-
---- .class #id bg:white
-<hr>
-##how was mass partitioing and C allocation impacted after ~1yr?
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/allocation.png">
-
---- .class #id bg:white
-<hr>
-##Does climate change really alter TBCA?
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/tbca.png">
-
-
---- .class #id bg:white
-<hr>
-##Conclusions: Understanding canopy C gain
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="assets/img/treecarbon.png">
-
---- .class #id bg:white
-<hr>
-##Conclusions: Canopy C gain, getting it right
-<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:450px; HEIGHT:450px" SRC="assets/img/treebracket.png">
-
---- .class #id bg:white
-<hr>
-##Conclusions: Tree C allocation, fixed or not?
-
---- .class #id bg:white
-##Conclusions: Tree C allocation, getting it right
-<hr>
-
-* Manipulate climate change factors
-  + CO<sub>2</sub>, Precipation and Warming
-  + interactions between these factors
-<br />
-* excellent environmental control:
-  + tight control of temperature and RH allow VPD to be controlled in warming experiments
-  + real time control of CO<sub>2</sub> levels allows for ^13C studies to be completed 
-
---- .class #id bg:white
-
-
-## Reproducibility
-<hr>
 <br />
 <br />
-* All code for this talk can be found @ https://github.com/CourtneyCampany/
-
 <br />
+> - Stomatal response generally considered slow
+> - Increases CO<sub>2</sub> in intercellular airspaces, but...
+> -  <strong>Thats not where the magic happens</strong>
 
-* data & analysis for WTC1: github.com/CourtneyCampany/WTC1
-* data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
-* code for this talk: github.com/CourtneyCampany/wtc_seminar
+
+
+--- .class #id bg:white
+## Rapid <strong>↑</strong> in g<sub>m</sub> enables sunfleck response
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/agm.png">
+
+
+--- .class #id bg:white
+## Do shade leaves 'lie in wait'?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/agsbar.png">
+
 
 ---.class #id bg:white
+## Future work:  How general is this response?
+<hr>
 
-<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
+<br />
 
-<DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
-http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
+> - <strong>Sunfleck research focuses heavily on understory, but what about within the canopy?</strong>
+>  - Enhancing light interception is so important in canopy C gain, and for us as we scale up
+
+<br />
+> - <strong>Functional properties of eucalpytus leaves and canopies</strong> 
+>  - Vertical leaf angles
+>  - Stomata on both sides of the leaf
+>  - Sparse canopies 
+>  - Everygreen: year roudn C gain
 
