@@ -69,46 +69,51 @@ logo        : hielogo.png
 
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
-<br />
-* Novel experimental infrastructure with 12 chambers, 1 tree per each
-  +imported to HIE from Sweden
-  +retrofitted to work in Australian climate
-  
-<br />
-* Use to address some knowledge gaps in canopy C gain and tree C allocation
-  +across multiple scales
-<br />
-*http://www.uws.edu.au/hie/facilities/whole_tree_chambers  
-  
+
+* <strong>Novel experimental infrastructure with 12 climate controlled chambers</strong>
+  + 1 tree per chamber
+  + Imported to HIE from Sweden, retrofitted to work in Australian climate
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="assets/img/wtcsites.png">
+
 --- .class #id bg:white
 
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
 <br />
-* Manipulate climate change factors
+* <strong>Global change manipulations</strong>
   + CO<sub>2</sub>, Precipation and Warming
   + interactions between these factors
+  <br />
+* <strong>Excellent environmental control:</strong>
+  + Tight control of temperature and RH 
+  + CO<sub>2</sub> control allows for ^13C studies to be completed 
 <br />
-* excellent environmental control:
-  + tight control of temperature and RH allow VPD to be controlled in warming experiments
-  + real time control of CO<sub>2</sub> levels allows for ^13C studies to be completed  
+* <strong>Address questions in leaf and canopy physiology and tree C allocation</strong>
+  + canopy fluxes and canopy access for leaf-scale research
+  + large root enclosure for full biomass harvest
 
 --- .class #id bg:white 
 
 ## Whole Tree Chambers, Hawkesbury Forest Experiment
 <hr>
 <br />
-* What they are:
+* <strong>What they are:</strong>
   + tools for plant physiological research
   + excellent manipulative control of climate change factors
   + a step beyond seedling based physiology experiments
   + access to entire canopy
   <br />
   <br />
-* What they are not:
+* <strong>What they are not:</strong>
   + a proxy for ecosystem level processes
   
 <IMG STYLE="position:absolute; TOP:225px; LEFT:750px;" SRC="assets/img/wtc_design.jpg">
+
+## Dynamic leaf physiology within tree canopies
+<hr>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="assets/img/scaling.png">
 
 --- --- &twocol bg:white
 
@@ -211,19 +216,19 @@ Remko A. Duursma
 
 ***=right
 
-> - Are shade leaves optimized for low light or to respond to occasional high light
++ Are shade leaves optimized for low light or to respond to occasional high light
 
-> - Beyond just photosynthetic capacity
++ Beyond just photosynthetic capacity
+ 
++ g<sub>s</sub> responds slowly
 
-> - g<sub>s</sub> responds slowly
-
-> - g<sub>m</sub> anatomicaly constrained
++ g<sub>m</sub> anatomicaly constrained
 
 > - <strong>Unfortunately, not enough empirical data available</strong>
 
 
 ---&twocol bg:white
-## Sun and shade leaf physiology with the WTC3
+## WTC3: Leaf physiology of *Eucalpytus tereticornis*
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:450px; HEIGHT:500px" SRC="assets/img/chamb3.jpg">
@@ -231,17 +236,17 @@ Remko A. Duursma
 ***=right
 
 <br />
-> - <strong>12 whole tree chambers</strong>
->  - +3&deg;C ET treatments
->  - Minimal treatment effects found
+* <strong>Climate warming treatment</strong>
+ + +3&deg;C ET treatments
+ + Minimal treatment effects found
 
-> - <strong>Imposed drought in final months</strong>
->  - Focus on well watered trees 
+* <strong>Imposed drought in final months</strong>
+ + Focus on well watered trees 
 
-> - <strong>Heaps of gas exchange over 6 months</strong>
->  - Sun and shade leaves
->  - Leaf temperature = air temperature
->  - Tunable diode laser for g<sub>m</sub>
+* <strong>Heaps of gas exchange over 6 months</strong>
+ + Sun and shade leaves
+ + Leaf temperature = air temperature
+ + Tunable diode laser for g<sub>m</sub>
 
 ---&twocol_left bg:white
 ## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
@@ -253,15 +258,15 @@ Remko A. Duursma
 
 <br />
 
-> - Measuring two canopy extremes
->  - Sun: top of canopy in full light
->  - Shade: bottom and middle canopy in full shade
->  - Verified with quantum sensor and ceptometer
+* <strong>Measuring two canopy extremes</strong>
+ + Sun: top of canopy in full light
+ + Shade: bottom and middle canopy in full shade
+ + Verified with quantum sensor and ceptometer
 
-> - Leaves measured at current light environment
->  - Paired WTC compairsons
-> - 'Lights On' for shade leaves
->  - Max sunfleck response
+* <strong>Leaves measured at current light environment</strong>
+ + Paired WTC compairsons
+ + 'Lights On' for shade leaves
+ +  Max sunfleck response (fluxes stable)
 
 ---&twocol bg:white
 ##  Are tree canopies optimized for carbon gain?
@@ -278,6 +283,7 @@ Remko A. Duursma
 > - <strong>Is the canopy optimized to <strong>↑</strong> C gain while <strong>↓</strong> water loss?</strong>
 >   - Then g<sub>s</sub> will be  proportional to photosynthesis across all leaves
  
+<br />
 > - <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
 >   - If A<sub>max</sub> is  in sun leaves then <strong>↑</strong>g<sub>m</sub> should be too
 
@@ -294,9 +300,9 @@ Remko A. Duursma
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="assets/img/amaxnitro.png">
 ***=right
 <br />
-> - Amax reduced in shade
-> - ~25% higher Leaf Nitrogen in sun
-> - Kl higher in shade?
+* <strong>Amax reduced in shade</strong>
+* <strong>~25% higher Leaf Nitrogen in sun</strong>
+* <strong>Leaf hydraulic conductancehigher in shade?</strong>
 
 --- .class #id bg:white
 ## Shade leaves exhibited apparent inefficient water use
@@ -337,9 +343,7 @@ Remko A. Duursma
 <br />
 > - Stomatal response generally considered slow
 > - Increases CO<sub>2</sub> in intercellular airspaces, but...
-> -  <strong>Thats not where the magic happens</strong>
-
-
+> - <strong>Thats not where the magic happens</strong>
 
 --- .class #id bg:white
 ## Rapid <strong>↑</strong> in g<sub>m</sub> enables sunfleck response
@@ -369,5 +373,275 @@ Remko A. Duursma
 >  - Vertical leaf angles
 >  - Stomata on both sides of the leaf
 >  - Sparse canopies 
->  - Everygreen: year roudn C gain
+>  - Everygreen: year round C gain
+
+---&twocol_left bg:white
+## Moving forward: leaf to canopy economic spectrum
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+
+***=right
+
+<br />
+> - <strong>How do trees optimize canopy C gain</strong>
+
+>  - Resource distribution
+>  - Dynamic leaf physiology (g<sub>m</sub>)
+>  - Anatomy
+
+> - <strong>Implications for scaling leaf level measurments to the canopy</strong>
+
+--- .class #id bg:white
+
+## Canopy C fluxes and whole tree C allocation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:150px; WIDTH:800px; HEIGHT:200px" SRC="assets/img/scaling.png">
+
+--- .class #id bg:white
+## Background: modeling C allocation is a hot issue
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; " SRC="assets/img/Cgo.png">
+
+--- .class #id bg:white
+## Background: modeling C allocation is a hot issue
+<hr>
+
+> - <strong>Requires knowledge of global change impacts on forest ecosystems</strong>
+>  - How is net canopy C gain affected?
+>  - Is tree C allocation fixed or dymanic?
+>  - What components of allocation are most affected?
+
+> - <strong>Allocation schemes are necessary to constrain models</strong>
+
+--- .class #id bg:white
+## Strong focus on belowground C allocation (TBCA)
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px;  WIDTH:900px; HEIGHT:400px" SRC="assets/img/tbcastudies.png">
+
+
+--- .class #id bg:white
+## TBCA and global change: FACE studies
+<hr>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+> - <strong>TBCA enhanced under eCO<sub>2</sub></strong>
+>  - Fine roots (Iversen et al. 2010)
+>  - Exudation (Phillips et al. 2011)
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; " SRC="assets/img/palmroth.png">
+
+--- .class #id bg:white
+## Drawbacks to these study are real
+<hr>
+<br />
+> - <strong>TBCA esimated as a resdiual</strong>
+>  -  Soil respiration - C pools of litter, soils and roots
+>  -  Assumes steady-state conditions
+
+<br />
+> - <strong>Soil respiration scaled up</strong>
+>  -  point measurements (monthly) to yearly fluxes
+
+<br />
+> - <strong>TBCA is really hard to estimate</strong>
+
+--- .class #id bg:white
+## Can the WTC provide a better empirical solution?
+<hr>
+<br />
+> - <strong>High resoultion C and H<sub>2</sub>0 fluxes (14 min)</strong>
+> - <strong>Ability to track/harvest biomass</strong>
+> - <strong>separation of soil respirtory flux</strong>
+
+--- .class #id bg:white
+## WTC: Mass balance approach
+<hr>
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/conceptfig4.png">
+
+
+--- .class #id bg:white
+## WTCI: CO<sub>2</sub> x Drought with *Eucalpytus saligna*
+<hr>
+<br />
+
+> - <strong>*Eucalpytus saligna* or Sydney blue gum</strong>
+>  - important global plantation species
+>  - utilized in numerous climate change manipulation studies
+
+<br />
+> - <strong>Full factorial treatment design</strong>
+>  - 6 WTC at ambient CO<sub>2</sub> of 380 ppm and 6  at eCO<sub>2</sub> of +240 ppm above ambient
+>  - 4 month drought (no watering) during chamber flux period
+
+
+--- .class #id bg:white
+## Calculating tree C allocation
+<hr>
+
+> - <strong>Once trees are large enough, chamber floors go in and then chamber fluxes start</strong>
+>  - Continuous chamber C fluxes over 11 months
+
+> - <strong>Allometric surveys fortnightly</strong>
+>  - Height, diameter at regular intervals, leaf litter and leaf counts
+>  - Branch counts and lengths through time
+
+> - <strong>Biomass harvest by structural compoents</strong>
+>  - Density of branches, bole wood, bole bark
+>  - Specific leaf area (SLA)
+
+--- .class #id bg:white
+## Component C allocation with mass balance
+<hr>
+
+> - <strong>Harvest</strong>
+>  - TBCA = Cumulative CO<sub>2</sub> flux  - Branch + Bole + Leaf mass
+>  - TBCA - Root mass = Root turnover + exudation + microbial respiration)
+
+<br />
+> - <strong>Daily time steps</strong>
+>  - Cumulative CO<sub>2</sub> flux per time step
+>  - Volume and density to calculate wood mass</strong>
+>  - Modelled leaf area (daily) and SLA to predict leaf mass
+
+<br />
+> - <strong>To what degree is C allocation fixed under global change?</strong>
+
+--- .class #id bg:white
+## 1^st Step: Defining C allocation
+<hr>
+
+<br />
+> -  <strong>*Mass partitioning*:  the relative distribution of biomass between different tree tissue components such as leaves, branches, bole and roots.</strong>
+
+<br />
+> - <strong>*Carbon allocation*: the fraction of canopy photosynthesis distributed to different components such as tissue biomass pools, respiratory C fluxes, non-structural carbohydrate storage pools or root C exudation.</strong>
+
+--- .class #id bg:white
+## 2^nd Step: Differentiating between the two
+
+> - Changes in C allocation encompass effects of tissue turnover, the storage and use of carbohydrates and root exudation  > - Each represents a significant responses to environmental change.
+ > - patterns in biomass partitioning and C allocation may not be consistent with respect to the tissue in question,  
+ > - contributes to the current uncertainty in modelling tree growth responses climate change .
+
+> - <strong>turnover</strong>
+
+--- .class #id bg:white
+## Leaf area reduced in CO<sub>2</sub>
+<hr>
+<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/leafarea.png">
+
+--- .class #id bg:white
+## Leaf area and  tree C uptake strongly related
+<hr>
+
+<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/cflux_leafarea2.png">
+
+--- .class #id bg:white
+## Leads to similar reduction in harvested mass
+<hr>
+
+<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/fluxC_treeC.png">
+
+--- .class #id bg:white
+## Relationship between tree C flux and biomass
+<hr>
+
+<br />
+> - <strong>Difficult to empirically measure</strong>
+>  - Shown to be poorly related (Litton et al. 2007)
+
+<br />
+> - <strong>Advantages of WTC</strong>
+>  - allows testing of the coordination of canopy photosynthesis and growth
+>  - can examine over longer time periods
+>  - strongly correlated over 2.5 fold size range in *Eucalyptus* trees
+
+--- .class #id bg:white
+## Stem C mass reduced under CO<sub>2</sub> after ~1yr
+<hr>
+
+<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/allocation.png">
+
+
+--- .class #id bg:white
+## LMF and C allocation to leaves increased under CO<sub>2</sub>
+<hr>
+
+<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/allocation.png">
+
+--- .class #id bg:white
+## TBCA (measured as a simple residual) unaffected after ~1yr
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/tbca.png">
+
+
+--- .class #id bg:white
+## Is tree C allocation fixed?
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/treeallocation.png">
+
+--- .class #id bg:white
+## Is tree C allocation fixed?
+<hr>
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/cflux_tbca.png">
+
+--- .class #id bg:white
+## Conclusions: Tree C allocation, getting it right
+<hr>
+<br />
+> - <strong>Implications for how C allocation should be represented in process-based forest models</strong>
+> - Empirically defined C allocation patterns constrained by functional relationships with biomass production are needed to reduce uncertainty and improve model predictions (De Kauwe et al 2014)
+> - Even if TBCA doesnt change, belowground components still can
+
+<br />
+> - <strong>Measuring biomass just not enough</strong>
+> - Here, insufficient to explain responses of tree growth to eCO<sub>2</sub>
+
+--- .class #id bg:white
+<hr>
+## Conclusions: Understanding canopy C gain
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="assets/img/treecarbon.png">
+
+--- .class #id bg:white
+## Conclusions: Canopy C gain, getting it right
+<hr>
+<IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="assets/img/treebracket.png">
+
+--- .class #id bg:white
+## Reproducibility
+<hr>
+<br />
+<br />
+* <strong>All code for this talk can be found @ https://github.com/CourtneyCampany/</strong>
+
+<br />
+
+* data & analysis for WTC1: github.com/CourtneyCampany/WTC1
+* data & analysis for WTC3: github.com/CourtneyCampany/WTC_tree
+* code for this talk: github.com/CourtneyCampany/wtc_seminar
+
+---.class #id bg:white
+
+<IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
+
+<DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
+http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
+
+
+
+
+
 
