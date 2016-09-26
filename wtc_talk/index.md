@@ -572,7 +572,7 @@ Remko A. Duursma
 ## Stem C mass reduced under CO<sub>2</sub> after ~1yr
 <hr>
 
-<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/allocation.png">
+<IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/massfrac.png">
 
 
 --- .class #id bg:white
@@ -582,7 +582,7 @@ Remko A. Duursma
 <IMG STYLE="position:absolute;  TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/allocation.png">
 
 --- .class #id bg:white
-## TBCA (measured as a simple residual) unaffected after ~1yr
+## TBCA ~50%
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/tbca.png">
 

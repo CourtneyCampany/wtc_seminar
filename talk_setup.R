@@ -6,7 +6,7 @@ install_github('shiny', 'rstudio', force=TRUE)
 
 ##first rstart Rstudio here
 install.packages('stringr')
-devtools::install_github('muschellij2/slidify')
+devtools::install_github('muschellij2/slidify', force=TRUE)
 library(slidify)
 
 
