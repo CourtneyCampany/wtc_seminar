@@ -6,7 +6,7 @@ job         : Research Fellow, Hawkesbury Institute for the Environment
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [bootstrap, quiz,shiny, interactive]# {mathjax, quiz, bootstrap}
+widgets     : [bootstrap, quiz,shiny, interactive,mathjax]# {mathjax, quiz, bootstrap}
 ext_widgets: {rCharts: [libraries/nvd3]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
@@ -237,7 +237,7 @@ Remko A. Duursma
 
 ***=right
 
-+ Are shade leaves optimized for low light or to respond to occasional high light
++ Are shade leaves optimized for low light or to respond to occasional high light?
 
 + Beyond just photosynthetic capacity
  
@@ -289,9 +289,6 @@ Remko A. Duursma
  + Paired WTC compairsons
  + 'Lights On' for shade leaves
  +  Max sunfleck response (fluxes stable)
- 
---- &twocol bg:white
-
  
 ---&twocol bg:white
 ##  Are tree canopies optimized for carbon gain?

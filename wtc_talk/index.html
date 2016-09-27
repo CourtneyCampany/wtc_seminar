@@ -469,7 +469,7 @@ Remko A. Duursma</p>
 </div>
 <div style='float:right;width:48%;'>
   <ul>
-<li><p>Are shade leaves optimized for low light or to respond to occasional high light</p></li>
+<li><p>Are shade leaves optimized for low light or to respond to occasional high light?</p></li>
 <li><p>Beyond just photosynthetic capacity</p></li>
 <li><p>g<sub>s</sub> responds slowly</p></li>
 <li><p>g<sub>m</sub> anatomicaly constrained</p></li>
@@ -565,8 +565,6 @@ Remko A. Duursma</p>
 <li> Max sunfleck response (fluxes stable)</li>
 </ul></li>
 </ul>
-
-<p>--- &amp;twocol bg:white</p>
 
 <p>---&amp;twocol bg:white</p>
 
@@ -1722,7 +1720,21 @@ http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
   <script src="shared/bootstrap/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="shared/slider/css/jquery.slider.min.css"></link>
   
-  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <!-- MathJax: Fall back to local if CDN offline but local image fonts are not supported (saves >100MB) -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <!-- <script src="https://c328740.ssl.cf1.rackcdn.com/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script> -->
+  <script>window.MathJax || document.write('<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});<\/script><script src="libraries/widgets/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"><\/script>')
+</script>
+<!-- LOAD HIGHLIGHTER JS FILES -->
   <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
   <!-- DONE LOADING HIGHLIGHTER JS FILES -->
