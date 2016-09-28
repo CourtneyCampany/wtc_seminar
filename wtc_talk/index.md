@@ -1,12 +1,12 @@
 ---
-title       : Understanding resource allocation in Eucalyputus trees,
+title       : Understanding resource allocation in Eucalyptus trees,
               using Whole Tree Chambers
 author      : Court Campany
 job         : Research Fellow, Hawkesbury Institute for the Environment
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [bootstrap, quiz,shiny, interactive,mathjax]# {mathjax, quiz, bootstrap}
+widgets     : [bootstrap, quiz,mathjax]# {mathjax, quiz, bootstrap}
 ext_widgets: {rCharts: [libraries/nvd3]}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
@@ -31,86 +31,61 @@ logo        : hielogo.png
 --- .class #id bg:white
 ## Science Background
 <hr>
-*leaflet goes here
-
---- &twocol bg:white
-## WTC3: Resource distrubution of *Eucalpytus tereticornis*
-<hr>
-***=left
-<br />
-* <strong>Leaf Nitrogen </strong>
- + each sun/shade leaves from gas exchange
-
-<br />
-* <strong>Leaf Hydraulics</strong>
- + Predawn / Midday water potentials
- + Leaf transpiration from gas exchange
- + Leaf specific hydraulic conductance
-
-***=right
-<br />
-* <strong>Water Use Efficiency</strong>
- + ITE = Photosynthesis / Transpiration
- + g1 = ITE vs. VPD (water use strategy)
- + delta^13C = WUE over leaf lifespan
-
+<IMG STYLE="position:absolute; TOP:175px; LEFT:100px;" SRC="assets/img/mymap.png">
+  
 --- .class #id bg:white
-
 ## Research: Tree carbon uptake and carbon allocation
-<hr>
-<br />
 
-* How are trees optimized for C gain?
-  + physiology, resource distribution and anatomy
-  + will future global change affect these processes?
-  
-<br />
-* Where does this C go?
-  + fate of photosynthetic C through trees
-  + source vs sink activity
-  + providing empirical data to models
-  
-<IMG STYLE="position:absolute; TOP:215px; LEFT:650px; WIDTH:325px; HEIGHT:375px" SRC="assets/img/treeandroots.jpg">
 
---- &twocol bg:white
+--- &twocol_bigleft bg:white
 ## Resource allocation is important at multiple scales
 <hr>
 <br />
 
 ***=left
-  + Resource allocation (H<sub>2</sub>0, N, P) regulates leaf photosynthesis
-  + Canopy light gradients control resource distribution which alters leaf physiological behavior
+<br />
+
+  + Distribution of H<sub>2</sub>0, N, P regulates leaf photosynthesis
+  <br />
+  
+  + Canopy light gradients affect resource distribution 
+  <br />
+  
   + Sum uptake of all leaves determines net canopy C uptake
-  + Canopy C must then be allocated, as a resource, to growth, storage, reproduction and loss
+  <br />
+  
+  + Canopy C must then be allocated, as a resource,  
+  to growth, storage and reproduction
 
 ***=right
-<IMG STYLE="position:absolute; TOP:210px; LEFT:700px;" SRC="assets/img/canopy.jpg">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:725px;" SRC="assets/img/canopy.jpg">
 
 --- .class #id bg:white
 
-## Whole Tree Chambers, Hawkesbury Forest Experiment
+## Whole Tree Chambers
 <hr>
 
 * <strong>Novel experimental infrastructure with 12 climate controlled chambers</strong>
   + 1 tree per chamber
-  + Imported to HIE from Sweden, retrofitted to work in Australian climate
+  + Imported from Sweden, retrofitted to work in Australian climate
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="assets/img/wtcsites.png">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="assets/img/wtcsites.png">
 
 --- .class #id bg:white
 
-## Whole Tree Chambers, Hawkesbury Forest Experiment
+## Whole Tree Chambers
 <hr>
-<br />
+<IMG STYLE="position:absolute; TOP:175px; LEFT:740px; WIDTH:300px; HEIGHT:450px" SRC="assets/img/chamb3.jpg">  
+
 * <strong>Global change manipulations</strong>
   + CO<sub>2</sub>, Precipation and Warming
   + interactions between these factors
   <br />
 * <strong>Excellent environmental control:</strong>
   + Tight control of temperature and RH 
-  + CO<sub>2</sub> control allows for ^13C studies to be completed 
+  + CO<sub>2</sub> control allows for <sup>13</sup>C studies to be completed 
 <br />
-* <strong>Address questions in leaf and canopy physiology and tree C allocation</strong>
+* <strong>Address tree physiology and tree C allocation questions</strong>
   + canopy fluxes and canopy access for leaf-scale research
   + large root enclosure for full biomass harvest
 
@@ -130,6 +105,8 @@ logo        : hielogo.png
   + a proxy for ecosystem level processes
   
 <IMG STYLE="position:absolute; TOP:225px; LEFT:750px;" SRC="assets/img/wtc_design.jpg">
+
+--- .class #id bg:white 
 
 ## Dynamic leaf physiology within tree canopies
 <hr>
@@ -191,24 +168,24 @@ Remko A. Duursma
 <br />
 <br />
 <br />
-> - Light gradient determines leaf properties
++ Light gradient determines leaf properties
 <br />
 
-> - N and H<sub>2</sub>O both distributed to sun leaves
++ N and H<sub>2</sub>Odistributed more to sun leaves
 <br />
 
-> - Maximizes photosynthesis (theoritically)
++ <strong>Maximizes photosynthesis (theoritically)</strong>
 
 --- .class #id bg:white
 ## For the canopy...Don't <span style="color:green">LEAF</span> things to chance
 <hr>
 <center>![leafpic](assets/img/leaf_light.jpg)</center>
 
-> - <strong>Trees can't put all leaves in the sun</strong>
->  - Drives changes in anatomy, morphology and physiology
->  - Affects canopy resource distribution
+* <strong>Trees can't put all leaves in the sun</strong>
+  + Drives changes in anatomy, morphology and physiology
+  + Affects canopy resource distribution
 
-> - <strong>Photosynthetic capacity ↓ in shade leaves</strong>
+* <strong>Photosynthetic capacity ↓ in shade leaves</strong>
 
 ---&twocol bg:white
 ## Photosynthesis is a diffusion process
@@ -217,12 +194,17 @@ Remko A. Duursma
 
 ***=left
 
++ Driven by resistances to CO<sub>2</sub> into leaves and then to the site of carboxylation
 <br />
-- Driven by resistances to CO<sub>2</sub> into leaves and then to the site of carboxylation
-- Stomatal <strong>(g<sub>s</sub>)</strong> and mesophyll <strong>(g<sub>m</sub>)</strong> conductance both limit photosynthesis 
 
-> - Limitations result from costs and tradeoffs
-> - <strong>We know little about these relationships within canopies</strong> 
++ Stomatal <strong>(g<sub>s</sub>)</strong> and mesophyll <strong>(g<sub>m</sub>)</strong> conductance both limit photosynthesis 
+<br />
+
++ Limitations result from costs and tradeoffs
+<br />
+<br />
+
++ <strong>We know little about these relationships within canopies</strong> 
 
 ***=right
 ![co2diffuse](assets/img/gm.jpg)
@@ -245,13 +227,32 @@ Remko A. Duursma
 
 + g<sub>m</sub> anatomicaly constrained
 
-> - <strong>Unfortunately, not enough empirical data available</strong>
++ <strong>Unfortunately, not enough empirical data available</strong>
 
+--- &twocol bg:white
+## WTC3: Resource distrubution of *Eucalpytus tereticornis*
+<hr>
+***=left
+<br />
+* <strong>Leaf Nitrogen </strong>
+ + sun & shade leaves from gas exchange
+
+<br />
+* <strong>Leaf Hydraulics</strong>
+ + Predawn / Midday water potentials
+ + Leaf transpiration from gas exchange
+ + Leaf specific hydraulic conductance
+
+***=right
+<br />
+* <strong>Water Use Efficiency</strong>
+ + ITE = Photosynthesis / Transpiration
+ + delta^13C = WUE over leaf lifespan
 
 ---&twocol bg:white
 ## WTC3: Leaf physiology of *Eucalpytus tereticornis*
 <hr>
-
+***=left
 <IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:450px; HEIGHT:500px" SRC="assets/img/chamb3.jpg">
 
 ***=right
@@ -264,20 +265,35 @@ Remko A. Duursma
 * <strong>Imposed drought in final months</strong>
  + Focus on well watered trees 
 
-* <strong>Heaps of gas exchange over 6 months</strong>
+* <strong>Gas exchange campaigns over 6 months</strong>
  + Sun and shade leaves
  + Leaf temperature = air temperature
  + Tunable diode laser for g<sub>m</sub>
  
-
----&twocol_left bg:white
-## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
+---&twocol bg:white
+##  Are tree canopies optimized for carbon gain?
 <hr>
+***=left
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="assets/img/licor.jpg">
+<IMG STYLE="position:absolute; TOP:325px; LEFT:65px;" SRC="assets/img/euc_canopy2.jpg">
+<br />
+
+* <strong>Do light gradients define leaf properties</strong>
+  +Resources and photosynthetic capacity (<strong>A<sub>max</sub></strong>) should be <strong>↑</strong> in sun leaves
 
 ***=right
+<br />
+*  <strong>Is the canopy optimized to <strong>↑</strong> C gain while <strong>↓</strong> water loss?</strong>
+  + Then g<sub>s</sub> will be  proportional to photosynthesis across all leaves
+ 
+<br />
+* <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
+  + If A<sub>max</sub> is  in sun leaves then <strong>↑</strong>g<sub>m</sub> should be too
 
+---.class #id bg:white
+## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
+<hr>
+<IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:350px; HEIGHT:450px" SRC="assets/img/licor.jpg">
 <br />
 
 * <strong>Measuring two canopy extremes</strong>
@@ -288,26 +304,13 @@ Remko A. Duursma
 * <strong>Leaves measured at current light environment</strong>
  + Paired WTC compairsons
  + 'Lights On' for shade leaves
- +  Max sunfleck response (fluxes stable)
+ +  Max sunfleck response (fluxes stable)  
+
  
----&twocol bg:white
-##  Are tree canopies optimized for carbon gain?
+ 
+--- .class #id bg:white
+## WTC3: Were sun and shade leaves fundamentally different?
 <hr>
-<br />
-***=left
-![canopypic](assets/img/euc_canopy2.jpg)
-
-> - <strong>Do light gradients define leaf properties</strong>
->   - Resources and photosynthetic capacity (<strong>A<sub>max</sub></strong>) should be <strong>↑</strong> in sun leaves
-
-***=right
-
-> - <strong>Is the canopy optimized to <strong>↑</strong> C gain while <strong>↓</strong> water loss?</strong>
->   - Then g<sub>s</sub> will be  proportional to photosynthesis across all leaves
- 
-<br />
-> - <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
->   - If A<sub>max</sub> is  in sun leaves then <strong>↑</strong>g<sub>m</sub> should be too
 
 --- .class #id bg:white
 ## 75% reduction in direct light to shade leaves
@@ -677,9 +680,5 @@ Remko A. Duursma
 
 <DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
 http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
-
-
-
-
 
 
