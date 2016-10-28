@@ -13,7 +13,7 @@ font-size: 45px;
 
 .title-slide hgroup > h1, 
 .title-slide hgroup > h2 {
-  color: #535E43 ;  /* ; #EF5150*/
+  color: black ;  /* ; #EF5150*/
 }
 
 
@@ -51,4 +51,10 @@ slide:not(.segue) h2{
   letter-spacing: -2px;
   line-height: 1.2em;
   color: black;
+}
+
+slides > slide {
+
+  color: black;
+
 }

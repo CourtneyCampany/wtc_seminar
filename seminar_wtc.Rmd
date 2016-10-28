@@ -7,6 +7,7 @@ output:
   ioslides_presentation:
     widescreen: true
     smaller: true
+    transition: faster
     css: wtc_custom.css
     logo: wtc_talk/assets/img/hielogo.png
 ---
@@ -467,6 +468,8 @@ Remko A. Duursma
 >  - Dynamic leaf physiology (g<sub>m</sub>)
 >  - Anatomy
 
+<br />
+
 > - <strong>Implications for scaling leaf level measurments to the canopy</strong>
 
 </div> 
@@ -556,6 +559,7 @@ Remko A. Duursma
 <br />
 <br />
 <br />
+<br />
 
 * <strong>High resoultion C and H<sub>2</sub>0 fluxes (14 min)</strong>
 <br />
@@ -568,7 +572,7 @@ Remko A. Duursma
 * <strong>Separation of soil respirtory flux</strong>
 </div>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:400px; HEIGHT:500px" SRC="wtc_talk/assets/img/wetchamber.JPG">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:75px; WIDTH:400px; HEIGHT:500px" SRC="wtc_talk/assets/img/wetchamber.JPG">
 
 
 ## WTC: Mass balance approach
@@ -579,44 +583,52 @@ Remko A. Duursma
 ## WTCI: CO<sub>2</sub> x Drought with *Eucalpytus saligna*
 <hr>
 <br />
+<br />
 
-> - <strong>*Eucalpytus saligna* or Sydney blue gum</strong>
->  - important global plantation species
->  - utilized in numerous climate change manipulation studies
+* <strong> *Eucalpytus saligna* or Sydney blue gum</strong>
+  + Important global plantation species
+  + Utilized in numerous climate change manipulation studies
 
 <br />
 
-> - <strong>Full factorial treatment design</strong>
->  - 6 WTC at ambient CO<sub>2</sub> of 380 ppm and 6  at eCO<sub>2</sub> of +240 ppm above ambient
->  - 4 month drought (no watering) during chamber flux period
+* <strong>Full factorial treatment design</strong>
+  + 6 WTC at ambient CO<sub>2</sub> of 380 ppm and 6  at eCO<sub>2</sub> of +240 ppm above ambient
+  + 4 month drought (no watering) during chamber flux period
 
 ## WTC1: Whole Tree CO<sub>2</sub> flux
 <hr>
+<br />
+<br />
+
+* <strong>Hybrid open-mode - null-balance gas exchange system</strong>
+  + 30m<sup>3</sup> air volume, fresh air supply at 10L s<sup>-1</sup>
+  + Pure CO<sub>2</sub> injected to reach target
+  + IRGA samples every 60 sec (14 min cycle all WTCs/2 reference lines)
 
 <br />
 
-> - <strong>Hybrid open-mode - null-balance gas exchange system</strong>
->  - 30m<sup>3</sup> air volume, fresh air supply at 10L s<sup>-1</sup>
->  - Pure CO<sub>2</sub> injected to reach target
->  - IRGA samples every 60 sec (14 min cycle all WTCs/2 reference lines)
-
-<br />
-
-> - <strong>CO<sub>2</sub> flux from mass balance of CO<sub>2</sub> entering and leaving the chamber with chamber ventilation</strong>
+* <strong>CO<sub>2</sub> flux from mass balance of CO<sub>2</sub> entering and leaving the chamber with chamber ventilation</strong>
 
 ## Calculating tree C allocation
 <hr>
+<br />
+<br />
+
+* <strong>Once trees are large enough, chamber floors go in and then chamber fluxes start</strong>
+
+>  - Continuous aboveground C fluxes over 11 months  
 
 <br />
 
-> - <strong>Once trees are large enough, chamber floors go in and then chamber fluxes start</strong>
->  - Continuous aboveground C fluxes over 11 months  
+* <strong>Allometric surveys fortnightly</strong>
 
-> - <strong>Allometric surveys fortnightly</strong>
 >  - Height, diameter at regular intervals, leaf litter and leaf counts
 >  - Branch counts and lengths through time  
 
-> - <strong>Biomass harvest by structural compoents</strong>
+<br />
+
+* <strong>Biomass harvest by structural compoents</strong>
+
 >  - Density of branches, bole wood, bole bark
 >  - Specific leaf area (SLA)
 
@@ -625,45 +637,50 @@ Remko A. Duursma
 
 <br />
 
-> - <strong>Harvest</strong>
+* <strong>Harvest</strong>
+
 >  - C content = 50% of dry biomass
 >  - TBCA = Cumulative CO<sub>2</sub> flux  - Branch + Bole + Leaf mass
 >  - TBCA - Root mass = Root turnover + exudation + microbial respiration)
 
 <br />
 
-> - <strong>Daily time steps</strong>
+* <strong>Daily time steps</strong>
+
 >  - Cumulative CO<sub>2</sub> flux per time step
 >  - Volume and density to calculate wood mass</strong>
 >  - Modelled leaf area (daily) and SLA to predict leaf mass
 
 <br />
 
-> - <strong>To what degree is C allocation fixed under global change?</strong>
+* <strong>To what degree is C allocation fixed under global change?</strong>
 
 ## 1<sup>st</sup> Step: Defining C allocation
 <hr>
+<br />
+<br />
+<br />
+
+* <strong>*Mass partitioning*:  the relative distribution of biomass between different tree tissue components such as leaves, branches, bole and roots.</strong>
 
 <br />
 
-> -  <strong>*Mass partitioning*:  the relative distribution of biomass between different tree tissue components such as leaves, branches, bole and roots.</strong>
-
-<br />
-
-> - <strong>*Carbon allocation*: the fraction of canopy photosynthesis distributed to different components such as tissue biomass pools, respiratory C fluxes, non-structural carbohydrate storage pools or root C exudation.</strong>
+* <strong>*Carbon allocation*: the fraction of canopy photosynthesis distributed to different components such as tissue biomass pools, respiratory C fluxes, non-structural carbohydrate storage pools or root C exudation.</strong>
 
 ## 2<sup>nd</sup> Step: Differentiating between the two
 <hr>
 <br />
 
-> - <strong>Changes in C allocation encompass effects of tissue turnover, the storage and use of carbohydrates and root exudation</strong>
+* <strong>Changes in C allocation encompass effects of tissue turnover, the storage and use of carbohydrates and root exudation</strong>
+
  > - Each represents a significant responses to environmental change.
  > - patterns in biomass partitioning and C allocation may not be consistent with respect to the tissue in question,  
  > - contributes to the current uncertainty in modelling tree growth responses climate change .
 
 <br />
 
-> - <strong>Tissue specific C allocation represents the fraction of net canopy C uptake distributed to a given tissue</strong>
+* <strong>Tissue specific C allocation represents the fraction of net canopy C uptake distributed to a given tissue</strong>
+
  > - WTC1: Leaf<sub>m</sub> = Leaf<sub>a</sub> * Canopy Flux C - Leaf<sub>t</sub>)
  > - Solve for allocation
  > - WTC1:  Leaf<sub>a</sub> = (Leaf<sub>m</sub> - Leaf<sub>t</sub>) / Canopy Flux C 
@@ -684,7 +701,7 @@ Remko A. Duursma
 
 ## Relationship between tree C flux and biomass
 <hr>
-
+<br />
 <br />
 
 * <strong>Difficult to empirically measure</strong>
@@ -724,23 +741,26 @@ Remko A. Duursma
 ## Conclusions: Tree C allocation, getting it right
 <hr>
 <br />
+<br />
 
 * <strong>How should C allocation be represented in process-based forest models</strong>
-  + Empirically defined C allocation patterns constrained by functional relationships with biomass production are needed to reduce uncertainty and improve model predictions (De Kauwe et al 2014)
-  + Even if TBCA doesnt change, belowground components still can
+
+> - Empirically defined C allocation patterns constrained by functional relationships with biomass production are needed to reduce uncertainty and improve model predictions (De Kauwe et al 2014)
+> - Even if TBCA doesnt change, belowground components still can
 
 <br />
  
-> - <strong>Measuring biomass just not enough</strong>
+* <strong>Measuring biomass just not enough</strong>
+
 > - Here, insufficient to explain responses of tree growth to eCO<sub>2</sub>
 
 ## Conclusions: Understanding canopy C gain
 <hr>
 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="wtc_talk/assets/img/treecarbon.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="wtc_talk/assets/img/treecarbon.png">
 
-## Conclusions: Canopy C gain, getting it right
+## Conclusions: C allocation from leaf to tree
 <hr>
 <IMG STYLE="position:absolute; TOP:150px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="wtc_talk/assets/img/treebracket.png">
 
